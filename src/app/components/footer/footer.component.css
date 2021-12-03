@@ -1,0 +1,40 @@
+a {
+    color: #d3cfcf;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+section {
+    display: block;
+    background-color: #141414;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  footer .footer-up ul li a {
+    text-decoration: none;
+    color: #bdb2b2;
+    display: block;
+    line-height: 24px;
+}
+
+
+.footer-up span{color: #c6c6c6;} footer .footer-up ul{margin: 0; padding: 0;} 
+.footer-up ul li{list-style: none; color: #c6c6c6;} 
+footer .footer-up ul li a{text-decoration: none; color: #c6c6c6; display: block; line-height: 24px;} 
+footer .ks_location_icon{color: #c6c6c6;} 
+
+.social-links{align-items: flex-end;} 
+
+ ul.social-links li{float: left;} 
+ ul.social-links li a{padding: 5px; margin-right: 5px;} 
+.bg-black{background-color: #191919;} .color-c6{color: #c6c6c6;} 
+section.copyright{background-color: #202020; text-align: center; font-size: 0.8rem; color: #C4C4C4;} 
+.klogo{background-color: #FFF; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; padding: 15px 10px;} 
+.ks-header .klogo{padding: 10px;} 
+.company_logo{height: 2.85rem;} @media (max-width: 575px){.payment-card .card img{width: 45px;}} 
+section.footer-up.pb-5 li.mt-4.mb-2.d-flex{white-space: nowrap;} 

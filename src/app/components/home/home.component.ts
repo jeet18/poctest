@@ -8,8 +8,13 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   constructor() { }
+  contactDivactive:boolean=false
 
   ngOnInit(): void {
+  }
+
+  activeform(){
+    this.contactDivactive =!this.contactDivactive
   }
 
 }
